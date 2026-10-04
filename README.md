@@ -1,2 +1,2 @@
-# portfolio
-Portfolio ( Django Project )
+# portfolio site
+Portfolio sayti ( Django Project )
